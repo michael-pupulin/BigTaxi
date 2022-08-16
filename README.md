@@ -9,7 +9,7 @@ to store on my laptop. Instead, I load the data into Spark using the parquet for
   <li>Which zones see the most pick-ups?</li>
   <li>Which Boroughs see the most pick-ups?</li>
   <li>Which hours see the most pick-ups?</li>
-  <li>What is the mean, standard deviation, minimum and maximum of the trip distances??</li>
+  <li>What is the mean, standard deviation, minimum and maximum of the trip distances?</li>
 </ul>
 
 
